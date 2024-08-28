@@ -57,6 +57,14 @@ Per interrompere il monitoraggio e chiudere l'applicazione, basta fare clic sul 
 
 
 
+@V2 Versione 2.0
+
+Sono resenti le stesse funzioni, con aggiunta di:
++ l'utente puo' scegliere tra copiare solo, cancellare solo, oppure entrambe le funzionalita'.
++ l'utente ha la possibilita' di stoppare l'applicazione cliccando su "Stop Monitoring".
++ l'utente puo' ora scegliere di avere o meno il backup di tutti i file per sessione (Start - Stop) e puo' accedere direttamente alla cartella contenete il backup in formato .zip cliccando su "Open Backup Folder"
+
+
 Note:
 
 Assicurati dei Permessi:
